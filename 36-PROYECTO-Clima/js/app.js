@@ -49,7 +49,7 @@ function imprimirError(mensaje) {
 
 function consultarAPI(ciudad,pais) {
     
-    const appId = '81629fbabc87c09be22578c23feafd20';
+    const appId = 'appId';
 
     const URL = `https://api.openweathermap.org/data/2.5/weather?q=${ciudad},${pais}&appid=${appId}`;
 
