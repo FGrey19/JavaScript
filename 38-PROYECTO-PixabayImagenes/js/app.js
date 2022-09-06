@@ -49,7 +49,7 @@ function buscarImagenes() {
 
     const termino = document.querySelector('#termino').value;
 
-    const key = '29715672-dececc1e06947a8c15e9ced79';
+    const key = 'insert_your_key';
     const url = `https://pixabay.com/api/?key=${key}&q=${termino}&per_page=${registrosPorPagina}&page=${paginaActual}`;
 
     fetch(url)
