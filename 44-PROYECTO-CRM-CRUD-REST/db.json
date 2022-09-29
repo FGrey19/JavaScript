@@ -3,9 +3,16 @@
     {
       "nombre": "Juan NUEVO!",
       "email": "correo2@correo.com",
-      "telefono": "12",
+      "telefono": "951",
       "empresa": "12212",
-      "id": 26
+      "id": 1
+    },
+    {
+      "nombre": "Fernando",
+      "email": "ferdmcg19@gmail.com",
+      "telefono": "9513601389",
+      "empresa": "Ferdinand",
+      "id": 2
     }
   ]
 }
